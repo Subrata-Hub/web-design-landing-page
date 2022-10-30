@@ -24,7 +24,7 @@
 #### How the website looks ike
 ---
 
-![](screen-short/Project1.png)
+![](thumbnail.png)
 
 ***
 
